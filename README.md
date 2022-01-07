@@ -19,6 +19,8 @@ Heat Map graph below shows the most common time of day used by riders in a week.
 [link to Story 2](https://public.tableau.com/app/profile/john.umarov/viz/bikesharingModuleChallenge/Story2?publish=yes)
 
 
+
+
 [Link to Story 3](https://public.tableau.com/app/profile/john.umarov/viz/bikesharingModuleChallenge/Story3?publish=yes)
 
 

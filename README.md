@@ -7,7 +7,13 @@ Kate proposed an Idea to start a Citibike service in her hometown Des Moines, Io
 
 ## Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
 
-[link to dashboard](https://public.tableau.com/app/profile/john.umarov/viz/bikesharingModuleChallenge/Story1?publish=yes)
+[link to Stor 1](https://public.tableau.com/app/profile/john.umarov/viz/bikesharingModuleChallenge/Story1?publish=yes)
+
+
+[link to Story 2](https://public.tableau.com/app/profile/john.umarov/viz/bikesharingModuleChallenge/Story2?publish=yes)
+
+
+[Link to Story 3](https://public.tableau.com/app/profile/john.umarov/viz/bikesharingModuleChallenge/Story3?publish=yes)
 
 
 

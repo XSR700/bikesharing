@@ -18,6 +18,7 @@ The heat map graph below shows the most common time of day used by riders in a w
 
 
 [Checkout Times For All Users](https://github.com/XSR700/bikesharing/blob/main/Checkout%20Times%20for%20all%20Users.png)
+
 The line graph above shows the checkout duration time for all users by minutes. 
 
 [link to Story 2](https://public.tableau.com/app/profile/john.umarov/viz/bikesharingModuleChallenge/Story2?publish=yes)

@@ -10,14 +10,14 @@ Kate proposed an Idea to start a Citibike service in her hometown Des Moines, Io
 Click on the links below to view Tableau stories 1,2, and 3. 
 
 
-[link to Story 1](https://public.tableau.com/app/profile/john.umarov/viz/bikesharingModuleChallenge/Story1?publish=yes)
+![link to Story 1](https://public.tableau.com/app/profile/john.umarov/viz/bikesharingModuleChallenge/Story1?publish=yes)
 
 Story 1 first graph shows the trip duration of city bike renters separated by gender.
 
 The heat map graph below shows the most common time of day used by riders in a week. redder squares signify higher records.
 
 
-[Checkout Times For All Users](https://github.com/XSR700/bikesharing/blob/main/Checkout%20Times%20for%20all%20Users.png)
+![Checkout Times For All Users](https://github.com/XSR700/bikesharing/blob/main/Checkout%20Times%20for%20all%20Users.png)
 
 The line graph above shows the checkout duration time for all users by minutes. 
 

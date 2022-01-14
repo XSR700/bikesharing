@@ -16,6 +16,10 @@ Story 1 first graph shows the trip duration of city bike renters separated by ge
 
 The heat map graph below shows the most common time of day used by riders in a week. redder squares signify higher records.
 
+
+[Checkout Times For All Users](https://github.com/XSR700/bikesharing/blob/main/Checkout%20Times%20for%20all%20Users.png)
+The line graph above shows the checkout duration time for all users by minutes. 
+
 [link to Story 2](https://public.tableau.com/app/profile/john.umarov/viz/bikesharingModuleChallenge/Story2?publish=yes)
 
 This story represents where riders start and end their trips using a heat map. We instantly see that the majority of the activity takes place in the center of New York City below Manhattan. The heat map above in blue represents where riders started their trip. The Heat map below in red represents where riders ended their trip.
